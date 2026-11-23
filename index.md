@@ -13,7 +13,7 @@ I am a senior Computer Science student at Saint Louis University.
 ## Skills
 
 - SQL: PostgreSQL, MySQL, SQLite
--Python: pandas
+- Python: pandas
 - Git
 
 ## Coursework and Experience
