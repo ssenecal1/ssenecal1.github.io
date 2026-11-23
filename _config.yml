@@ -7,9 +7,9 @@ email: seth.senecal@slu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant Jekyll theme for an academic personal homepage.
-canonical: https://ssenecal1.github.io/
+# keywords: minimal light
+# description: The Minimal Light is a simple and elegant Jekyll theme for an academic personal homepage.
+# canonical: https://ssenecal1.github.io/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
