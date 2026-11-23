@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a senior Computer Science student at Saint Louis University.
 
-## Research Interests
+## Projects
+- **[Game Recommender Database](https://github.com/ssenecal1/csci4710-final-game-recommender/)**: SQLite, Pandas, React.js
+- **[PAO Surgery Simluator](https://github.com/oss-slu/pao_surgery_simulator)**: Python, React.js, VTK
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## Skills
 
-## News
+SQL (PostgreSQL, MySQL, SQLite) - Python (pandas) - Git
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Coursework and Experience
+Databases (CSCI 4710) - Data Structures - Statistics
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/service.md %}
+## Contact
+Email me, or find me on GitHub and LinkedIn (links in the sidebar).
