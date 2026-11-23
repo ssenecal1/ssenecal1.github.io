@@ -1,23 +1,21 @@
 # Basic Information
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-affiliation_link: https://www.example.edu/
-email: yourname (at) example.edu
+title: Seth Senecal
+position: Computer Science Student
+affiliation: Saint Louis University
+affiliation_link: https://www.slu.edu/
+email: seth.senecal@slu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
 description: The Minimal Light is a simple and elegant Jekyll theme for an academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+canonical: https://ssenecal1.github.io/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/ssenecal1/
+linkedin: https://www.linkedin.com/in/seth-senecal-6125b5443/
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
@@ -35,7 +33,7 @@ auto_dark_mode: true
 
 # Font
 # You may use this option to choose between Serif and Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Uncomment the line below and fill in your Google Analytics 4 measurement ID (G-XXXXXXXXXX) to enable it.
